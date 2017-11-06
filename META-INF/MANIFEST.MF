@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Class-Path: ibxm.jar jnlp.jar lzma.jar lwjgl.jar slick.jar jinput.jar 
+ jogg-0.0.7.jar lwjgl_test.jar lwjgl_util.jar tinylinepp.jar lwjgl-deb
+ ug.jar natives-mac.jar asm-debug-all.jar jorbis-0.0.15.jar natives-li
+ nux.jar trident-7.2.1.jar slick-examples.jar natives-windows.jar subs
+ tance-7.2.1.jar laf-plugin-7.2.1.jar laf-widget-7.2.1.jar lwjgl_util_
+ applet.jar AppleJavaExtensions.jar log4j-api-2.0-beta9.jar
+Main-Class: me.cleancode.gameExampleLWJGL.GameMain
+
